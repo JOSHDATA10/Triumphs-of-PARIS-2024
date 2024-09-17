@@ -22,5 +22,14 @@ In the data preparation phase, i performed the following tasks:
 ### Data analysis
 I wrote some interesting DAX syntax to calculate columns and metrics
 ```DAX
-Age = DATEDIFF(athletes[birth_date],TODAY(),year)
+AGE 2 = DATEDIFF(medallists[birth_date],TODAY(),YEAR)
+RANK = RANKX(medals_total, medals_total[Points total])
+Points total = medals_total[Gold total] + medals_total[Silver total]  + medals_total[Bronze total]
 ```
+
+### Results/Findings
+1. USA had the highest medal 111
+2. USA had the highest medal points, 216. USA was the winner of the 2024 Paris Olympics.
+3. China had the second highest medal points, 176.
+4. Athletics and Swimming had the highest number of medals 112 and 105 respectively.
+5. The United States of America , had the highest number of athletes for the 2024 Olympics, with over 600 athletes. USA also participated in 47 disciplines , of 49. This could account for the high number of medals won by USA.
