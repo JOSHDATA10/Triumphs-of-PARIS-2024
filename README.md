@@ -1,4 +1,8 @@
 # Triumphs-of-PARIS-2024
+## Table of content
+- [Project Overview](project-overview)
+
+## Project Overview
 ### Exploring the triumphs of Paris 2024 Olympic
 
 This is an explorstory data analysis on the results from Olympics 2024 (Paris 2024). The exploration aims to view trends of medals across various sport activity in different countries. By analyzing this data , we seek to see the number of participants per events and countries and total medal won in each.
