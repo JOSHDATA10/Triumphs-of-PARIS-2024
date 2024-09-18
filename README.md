@@ -42,3 +42,13 @@ Points total = medals_total[Gold total] + medals_total[Silver total]  + medals_t
 3. China had the second highest medal points, 176.
 4. Athletics and Swimming had the highest number of medals 112 and 105 respectively.
 5. The United States of America , had the highest number of athletes for the 2024 Olympics, with over 600 athletes. USA also participated in 47 disciplines , of 49. This could account for the high number of medals won by USA.
+
+
+### Conclusion
+In the grand arena of Paris 2024, the numbers tell a story of determination, excellence, and unmatched 
+athletic prowess. 
+The USA's dominance with 111 medals and a remarkable 216 points underscores their global 
+sportsmanship. Zhang Yufei's six-medal feat and Marchand Leon's golden triumphs reflect the spirit of 
+individual brilliance that the Olympics celebrate.
+This exploration of Paris 2024 not only captures the triumphs of nations and athletes but also highlights 
+the essence of the Olympic spirit—where every medal is a testament to hard work, resilience, and the pursuit of greatness.
