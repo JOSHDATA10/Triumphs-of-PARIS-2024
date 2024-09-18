@@ -6,6 +6,7 @@
 - [Data cleaning](data-cleaning)
 - [Data analysis](data-analysis)
 - [Results/Findings](results/findings)
+- [Conclusion](conclusion)
 
 ## Project Overview
 ### Exploring the triumphs of Paris 2024 Olympic
