@@ -1,6 +1,11 @@
 # Triumphs-of-PARIS-2024
 ## Table of content
 - [Project Overview](project-overview)
+- [Data Source](data-source)
+- [Tools](tools)
+- [Data cleaning](data-cleaning)
+- [Data analysis](data-analysis)
+- [Results/Findings](results/findings)
 
 ## Project Overview
 ### Exploring the triumphs of Paris 2024 Olympic
