@@ -13,6 +13,10 @@
 
 This is an explorstory data analysis on the results from Olympics 2024 (Paris 2024). The exploration aims to view trends of medals across various sport activity in different countries. By analyzing this data , we seek to see the number of participants per events and countries and total medal won in each.
 
+
+![oly 3](https://github.com/user-attachments/assets/149422eb-211c-4275-a6b9-2b23b8ae55e5)
+![oly 3](https://github.com/user-attachments/assets/33d68e5c-a972-4651-9247-b83f41ed6d63)
+
 ### Data Source
 
 The Database used fro this analysis is the 'Olympics_2024.csv", containing detailed information about medals won, medalist , countries and more.
